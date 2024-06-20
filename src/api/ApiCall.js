@@ -10,7 +10,7 @@ export const getNewsData = async function () {
       region: "US",
     },
     headers: {
-      "x-rapidapi-key": "421ddf41f1msh4669b802681248ep161f9bjsn0c3f4b2216a4",
+      "x-rapidapi-key": "7a738e82a3mshb31293c9a0fd568p159a42jsn37dea20955fe",
       "x-rapidapi-host": "newsapi90.p.rapidapi.com",
     },
   };
@@ -33,7 +33,7 @@ export const getNewsDataById = async function (topidId) {
       region: "US",
     },
     headers: {
-      "x-rapidapi-key": "421ddf41f1msh4669b802681248ep161f9bjsn0c3f4b2216a4",
+      "x-rapidapi-key": "7a738e82a3mshb31293c9a0fd568p159a42jsn37dea20955fe",
       "x-rapidapi-host": "newsapi90.p.rapidapi.com",
     },
   };
